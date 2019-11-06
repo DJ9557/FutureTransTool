@@ -17,7 +17,7 @@ TODO: 传入期货名称，可快速高效翻译成英文
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'FutureTransTool/*.{h,m}'
+  s.source_files = "FutureTransTool/*.{h,m}"
   
   # s.resource_bundles = {
   #   'FutureTransTool' => ['FutureTransTool/Assets/*.png']
