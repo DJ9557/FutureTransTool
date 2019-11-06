@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.author             = { "DJ9557" => "dj9557@163.com" }
   s.source       = { :git => "https://github.com/DJ9557/FutureTransTool.git", :tag => "0.1.0" }
   s.source_files  = "FutureTransTool/*.{h,m}"
-  s.resource_bundles = {
+  #s.resource_bundles = {
         'Resource' => ['Assets/*']
     }
   s.requires_arc = true
