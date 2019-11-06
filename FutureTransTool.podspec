@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 
   s.name         = "FutureTransTool"
   s.version      = "0.1.0"
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "10.0"
   s.summary      = "期货名称翻译成英文"
   s.homepage     = "https://github.com/DJ9557/FutureTransTool"
   s.license = { :type => "MIT", :file => "LICENSE" }
